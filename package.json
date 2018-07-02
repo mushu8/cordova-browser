@@ -1,12 +1,12 @@
 {
   "name": "cordova-browser",
-  "version": "5.1.0-dev",
+  "version": "5.1.1",
   "description": "cordova-browser release",
   "main": "bin/template/cordova/Api.js",
   "bin": "bin/create",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-browser"
+    "url": "https://github.com/mushu8/cordova-browser"
   },
   "bugs": {
     "url": "https://issues.apache.org/jira/browse/CB"
